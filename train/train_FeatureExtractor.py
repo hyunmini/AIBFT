@@ -1,9 +1,6 @@
 '''
     FeatureExtractor.py 
         
-        - for 'Digital Forensics Challenge 2019 / tech part winner'
-
-        last updated 2019.07.17 
             v0.1: FeatureExtractor class design&implementation
 '''
 import os,sys
