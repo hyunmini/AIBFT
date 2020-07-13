@@ -6,8 +6,8 @@ AIBFT is the first web browser forensic tool using AI. We first release the core
 
 
 ## Dataset Source
-benign_webpage.zip : Collect with my own crawler 
+benign webpage : Collect with my own crawler 
 
-malicious_webpage1.zip : https://github.com/geeksonsecurity/js-malicious-dataset
+malicious webpage 1 : https://github.com/geeksonsecurity/js-malicious-dataset
 
-malicious_webpage2.zip : https://github.com/HynekPetrak/javascript-malware-collection
+malicious webpage 2 : https://github.com/HynekPetrak/javascript-malware-collection
